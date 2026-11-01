@@ -42,7 +42,7 @@ python -m pytest -q    # 4 tests
 - **`src/weekly_report.py`**: SQL → formatted Excel with conditional formatting.
 - **`src/dashboard.py`** + `dashboard_template.html`: embeds the data as JSON. Charts are hand-drawn SVG, with no internet or server needed.
 
-## Interview talking points
+## Design decisions
 
 - **Why a counterfactual instead of "they spoil more, so fix it"?** Correlation isn't cause. Re-running the same demand with only the schedule changed isolates the effect.
 - **Why subtract delivery cost?** A recommendation that ignores its own cost doesn't survive a VP's first question.
