@@ -1,0 +1,4 @@
+outputs/
+*.db
+__pycache__/
+.venv/
