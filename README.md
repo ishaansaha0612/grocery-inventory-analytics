@@ -1,6 +1,6 @@
 # Grocery inventory analytics
 
-> **Sample project.** Built to match the fictional "Jordan Patel" internship at "Lonestar Regional Grocers." The company and all data are invented.
+> **Personal project.** Models a hypothetical regional grocery chain. The company and all data are synthetic.
 
 Three deliverables from one SQLite database of 18 months of store inventory:
 
